@@ -1,0 +1,4 @@
+stepdefinitions\LoginSteps.class
+stepdefinitions\Hooks.class
+stepdefinitions\RegisterSteps.class
+runners\RunnerTest.class

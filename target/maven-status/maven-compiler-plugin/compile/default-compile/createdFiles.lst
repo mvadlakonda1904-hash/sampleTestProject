@@ -1,0 +1,4 @@
+utilities\ConfigReader.class
+utilities\DriverFactory.class
+pages\RegisterPage.class
+utilities\TestUtils.class
