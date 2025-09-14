@@ -8,7 +8,10 @@
 2. Learn coding one small functionality and check in to github(P1)
 
 ## Repo Guidelines
-1. Add .gitignore and add target folder to it. 
+1. Add .gitignore and add target folder to it.
+
+## Daily Practice
+1. Practice daily 1 hour
 
 ## Tools
 1. https://www.jetbrains.com/idea/download/ - IntelliJ IDEA Community Edition
