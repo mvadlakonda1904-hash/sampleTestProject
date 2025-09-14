@@ -19,4 +19,5 @@
 ## To DO
 1. How to clone using github desktop
 2. set repo in intellij
+3. Add .gitignore and add target folder to it.
 
