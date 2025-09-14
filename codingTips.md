@@ -15,3 +15,8 @@
 
 ## Tools
 1. https://www.jetbrains.com/idea/download/ - IntelliJ IDEA Community Edition
+
+## To DO
+1. How to clone using github desktop
+2. set repo in intellij
+
