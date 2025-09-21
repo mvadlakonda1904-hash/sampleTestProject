@@ -6,3 +6,5 @@
    ### A: A static method belongs to the class rather than any object. It can be called directly using the class name, without creating an object. Static methods are often used for utility or helper logic that doesn’t depend on object data.
    ### A: A non-static (or instance) method belongs to an object of the class. To call it, we must create an object, because it usually works with the object’s attributes.
 8. What is the diff between Encapsulation and Information hiding?
+   ### A: Encapsulation is about wrapping data and methods together into one unit.
+   ### A: Information Hiding is about restricting access to the internal details and exposing only what is necessary.
